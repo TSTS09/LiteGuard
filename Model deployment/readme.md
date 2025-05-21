@@ -94,7 +94,7 @@ adb install app/build/outputs/apk/release/app-release.apk
 ## 🚀 Usage Guide
 
 ### First Launch
-1. **Model Selection**: Choose from available models based on your device's capabilities:
+1. **Model Selection**: Choose from LiteGuard available models based on your device's capabilities. Below are more information on the base model used for each available model:
    - **LiteGuard 500MB**: Gemma3-1B (requires auth)
    - **LiteGuard 1GB**: DeepSeek-R1-Distill
    - **LiteGuard 2GB**: LiteGuard-merged-Phi2
